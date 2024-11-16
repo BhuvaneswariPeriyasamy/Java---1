@@ -7,5 +7,7 @@ public class TriangleArea {
         double triangleArea;
         triangleArea = (0.5 * base * height);
         System.out.println(triangleArea);
+        System.out.println("thank you");
+        System.out.println("hi");
     }
 }
