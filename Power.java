@@ -12,7 +12,7 @@ public class Power {
         int exponent = exponentInput.nextInt();
 
         double result = Math.pow(base, exponent);
-
+//try it also with for loop
         System.out.println("the result of " + base + " to power of " + exponent + " is " + result );
     }
 }
